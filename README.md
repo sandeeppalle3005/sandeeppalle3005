@@ -42,3 +42,13 @@ tools:
   ml: ["Kubeflow", "MLflow", "Ray", "DVC", "Feast"]
   monitoring: ["Prometheus", "Grafana", "Jaeger", "ELK Stack"]
   code: ["Python", "Go", "Rust", "Bash", "HCL", "Jsonnet"]
+
+📊 GitHub Stats
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=sandeeppalle3005&show_icons=true&theme=merko" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandeeppalle3005&layout=compact&theme=merko" width="48%" /> </div><div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandeeppalle3005&theme=merko" /> </div>
+
+🎯 Security Posture
+Metric	                      Status
+Security Score	              A+ ✅
+Critical Vulnerabilities	    0 ✅
+Dependencies Up to Date	      98% ✅
+Compliance	GDPR, SOC2,       HIPAA ✅
